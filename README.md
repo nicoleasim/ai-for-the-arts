@@ -9,3 +9,13 @@
   <li>Get to grips with using Github and feel comfortable doing so.</li>
   <li>Work with my peer group to enhance any issues I may face.</li>
 </ul>
+
+<h3>Contents</h3>
+
+<ul>
+
+<li> Coding Excercises</li>
+<li> Machine Learning</li>
+<li> Project Design</li>
+
+</ul>
